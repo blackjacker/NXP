@@ -1,0 +1,93 @@
+
+ @media only screen and (min-width : 500px) {
+      .img-resp{
+       margin-left: auto;
+      }
+      .center-justified {
+       text-align: justify;
+       margin-left: 12%;
+       margin-top: 3%;
+       margin-bottom: 3%;
+       width: 63%;
+        }
+}
+ @media only screen and (min-width : 320px) {
+      .img-resp{
+       margin-bottom: 12%;      
+      }
+      .center-justified{
+      text-align: justify;
+      }
+    }
+.jumbotron {
+    background-image: url(http://333v.ru/uploads/42/4206e0de0d0e3d5b0e9c0ebf63aa6425.jpg);
+    background-size: cover;
+    color: #eaecef;
+    font-family: Helvetica;
+    margin: 0 auto;
+}
+.marging-header{
+    margin-left: 10%;
+}
+
+.center-txt{
+  text-align:center;
+  margin-bottom: 4%;
+}
+.style-content{
+  margin-top: 8%;
+  margin-bottom:  10%;
+}
+.bold {
+  font-weight: 500;
+  color:black;
+}
+.cont-img{
+	height: auto;
+  background-color: #f4f7f7;
+  background-size: cover; 
+  font-family: Helvetica;
+  margin: 0 auto;
+}
+.center-img{
+  margin-top: 4%
+}
+.panel-footer{
+ text-align: left;
+}
+
+body{
+	height: 100%; 
+	width: 100%;
+	margin: 0;
+}
+
+p-1{
+	font-weight: 500;
+}
+p-grey{
+	font-weight: 460;
+	color: #7b8089;
+}
+p-2{
+  font-weight: 460;
+  color: #7b8089;
+  font-size: 13px;
+}
+
+li{
+	list-style-type: square;
+	color: #7b8089;
+}
+h2{
+    font-weight: lighter;
+	margin:0;
+}
+h4{
+	margin:0;
+	font-size: 19px;
+}
+h6{
+    font-size: 12px;
+}
+
